@@ -1,7 +1,0 @@
-{
-  "custom serialize" : "udemy json",
-  "udemyjson id" : "custom prefix 1",
-  "udemyjson key1" : "custom prefix value1",
-  "udemyjson key2" : "custom prefix value2",
-  "udemyjson date" : "custom prefix Thu Jul 09 15:29:06 IST 2020"
-}
