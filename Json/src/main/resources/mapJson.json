@@ -1,0 +1,25 @@
+{
+  "key1" : "value1",
+  "key2" : "value2",
+  "key3" : "value3",
+  "booleanTrue" : true,
+  "array" : [ "1", "2", "3" ],
+  "arrayOfObject" : [ {
+    "id" : 1,
+    "name" : "abhi",
+    "lastname" : "anand"
+  }, {
+    "id" : 2,
+    "name" : "aditi",
+    "lastname" : "ratnam"
+  } ],
+  "nestedObject" : {
+    "id" : 1,
+    "name" : "abhi",
+    "lastname" : "anand"
+  },
+  "integer" : 1,
+  "valueNull" : null,
+  "list" : [ "1", "2", "9" ],
+  "Date" : "2020-07-08T17:57:29.191"
+}
